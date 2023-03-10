@@ -35,4 +35,3 @@ COPY . .
 
 # Run the executable
 ENTRYPOINT ["python", "-m", "valeo"]
-CMD ["10"]
